@@ -31,12 +31,11 @@
     <td style="border:none;"><a target="_blank" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=nougat-tutorial&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&text_color=8b8b8b&bg_color=0000&hide_border=true&custom_title=PROxZIMA%27s%20Github%20Stats" alt="My Stats"/></a></td>
     <td style="border:none;"><a target="_blank" href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nougat-Tutorial&theme=dracula&dates=8b8b8b&background=0000&hide_border=true" alt="My Streak"/></a></td>
   </tr>
+    <tr style="border:none;">
+    <td style="border:none;"><a target="_blank" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=nougat-tutorial&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&text_color=8b8b8b&bg_color=0000&hide_border=true&custom_title=PROxZIMA%27s%20Github%20Stats" alt="My Stats"/></a></td>
+    <td style="border:none;"><a target="_blank" href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nougat-Tutorial&theme=dracula&dates=8b8b8b&background=0000&hide_border=true" alt="My Streak"/></a></td>
+  </tr>
 </table>
-
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Nougat-Tutorial&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=Nougat-Tutorial&theme=react-dark"/>
-</div>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
 
