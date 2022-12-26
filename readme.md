@@ -33,10 +33,13 @@
   </tr>
     <tr style="border:none;">
 </td>
+<td colspan="2">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tienhuynh-tn&theme=dracula&text_color=8b8b8b&bg_color=0000&hide_border=true"/>
+</td>
+
   </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=tienhuynh-tn&theme=dracula&text_color=8b8b8b&bg_color=0000&"/>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
 
