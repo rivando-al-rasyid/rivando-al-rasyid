@@ -8,13 +8,13 @@
 
 - :credit_card: My full name is **Rivando Al Rasyid** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
 - :school: I'm student at **Stmik Indonesia Padang**
-- :books: My major is **Software Engineering**
+- :books: My major is **Information System**
 - :earth_asia: I'm living now in **Padang, Indonesia**
 - :sweat_smile: I'm a newbie in coding, know flutter and Java language. Now I'm focus on learning Web Development.
-- :monocle_face: I'm interested in coding, sleeping, and watching film
-- :sunglasses: My quote is **_"It's never too late - never too late to start over, never too late to be happy"_**
-- :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep
-
+- :monocle_face: I'm interested in coding, sleeping, and watching anime&film
+- :sunglasses: My quote is **_"Sleep Well And Wake Early "_**
+<!-- - :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep
+ -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 
@@ -28,13 +28,13 @@
 
 <table style="border:none;margin:0 auto">
   <tr style="border:none;">
-    <td style="border:none;"><a target="_blank" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=nougat-tutorial&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&text_color=8b8b8b&bg_color=0000&hide_border=true&custom_title=PROxZIMA%27s%20Github%20Stats" alt="My Stats"/></a></td>
-    <td style="border:none;"><a target="_blank" href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nougat-Tutorial&theme=dracula&dates=8b8b8b&background=0000&hide_border=true" alt="My Streak"/></a></td>
+    <td style="border:none;"><a target="_blank" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=nougat-tutorial&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&text_color=8b8b8b&bg_color=0000&hide_border=true&custom_title=Nougat-Tutorial%27s%20Github%20Stats" alt="My Stats"/></a></td>
+    <td style="border:none;"><a target="_blank" href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nougat-tutorial&theme=dracula&dates=8b8b8b&background=0000&hide_border=true" alt="My Streak"/></a></td>
   </tr>
     <tr style="border:none;">
 </td>
 <td colspan="2">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tienhuynh-tn&theme=dracula&text_color=8b8b8b&bg_color=0000&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nougat-tutorial&theme=dracula&text_color=8b8b8b&bg_color=0000&hide_border=true"/>
 </td>
 
   </tr>
