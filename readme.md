@@ -66,9 +66,3 @@
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
   &copy; 2022 Nougat Tutorial
 </div>
-
----
-
-Credit: [tienhuynh-tn](https://github.com/tienhuynh-tn)
-
-Last Edited on: 22/12/2021
