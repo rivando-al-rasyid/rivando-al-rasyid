@@ -32,7 +32,7 @@
     <tr style="border:none;">
 </td>
 <td colspan="2">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rivando-al-rasyid&theme=dracula&text_color=8b8b8b&bg_color=0000&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rivando-al-rasyid&text_color=8b8b8b&bg_color=0000&hide_border=true"/>
 </td>
 
   </tr>
