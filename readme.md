@@ -30,10 +30,6 @@
     <td style="border:none;"><a target="_blank" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=rivando-al-rasyid&show_icons=true&theme=transparent&hide_border=true&custom_title=rivando-al-rasyid%27s%20Github%20Stats" alt="My Stats"/></a></td>
     <td style="border:none;"><a target="_blank" href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rivando-al-rasyid&theme=dracula&dates=8b8b8b&background=0000&hide_border=true" alt="My Streak"/></a></td>
   </tr>
-![Anurag's GitHub stats](anuraghazra)
- 
-    <tr style="border:none;">
-</td>
   </tr>
 </table>
 
