@@ -21,7 +21,7 @@
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
 
 <p align="center" >
-<a target="_blank" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivando-al-rasyid&&show_icons=true&theme=dracula&text_color=8b8b8b&bg_color=0000&hide_border=true&layout=compact&custom_title=Languages%20I%20Use&langs_count=8" alt="rivando-al-rasyid"/></a>
+<a target="_blank" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivando-al-rasyid&theme=transparent&dates=8b8b8b&background=0000&hide_border=true"" alt="rivando-al-rasyid"/></a>
 </p>
 
 
