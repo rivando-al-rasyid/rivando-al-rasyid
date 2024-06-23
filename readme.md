@@ -38,5 +38,4 @@
 </div>
 <div align="center">
   😍 Thanks for visiting my profile! Have a great day! 😊<br/>
-  &copy; 2023 Nougat Tutorial
 </div>
