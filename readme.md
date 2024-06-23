@@ -24,18 +24,17 @@
 
 <div align="center">
   <a href="mailto:rivanrasy@gmail.com" style="margin-right: 10px;">
-    <img alt="Gmail" height="40px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+    <img alt="Gmail" height="40px" src="https://simpleicons.org/icons/gmail.svg" />
   </a>
   <a href="https://www.linkedin.com/in/rivando-al-rasyid-60270015b/" style="margin-right: 10px;">
-    <img alt="Linkedin" height="38px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+    <img alt="Linkedin" height="38px" src="https://simpleicons.org/icons/linkedin.svg" />
   </a>
   <a href="https://www.instagram.com/rivandoall1/" style="margin-right: 10px;">
-    <img alt="Instagram" height="38px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+    <img alt="Instagram" height="38px" src="https://simpleicons.org/icons/instagram.svg" />
   </a>
   <a href="https://profile-summary-for-github.herokuapp.com/user/rivando-al-rasyid" >
-    <img alt="GitHub Summary" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+    <img alt="GitHub Summary" height="40px" src="https://simpleicons.org/icons/github.svg" />
   </a>
-</div>
 <div align="center">
   😍 Thanks for visiting my profile! Have a great day! 😊<br/>
 </div>
