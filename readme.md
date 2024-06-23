@@ -17,14 +17,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 About Some Stats
-
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivando-al-rasyid&theme=transparent&dates=8b8b8b&background=0000&hide_border=false&show_icons=true" alt="rivando-al-rasyid"/></a>
-</p>
-<p style="border:none;margin:0 auto">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=rivando-al-rasyid&theme=transparent&dates=8b8b8b&background=0000&hide_border=true" alt="My Stats"/></a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank"><img src="https://github-readme-streak-stats.herokuapp.com?user=rivando-al-rasyid&theme=transparent&dates=8b8b8b&background=0000&hide_border=true" alt="My Streak"/></a>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rivando-al-rasyid&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivando-al-rasyid&layout=compact&theme=radical)
 
 
 ## 🤝 Connect With Me
