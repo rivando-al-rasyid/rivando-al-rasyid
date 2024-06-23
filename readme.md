@@ -17,12 +17,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 About Some Stats
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=rivando-al-rasyid&show_icons=true&theme=radical" alt="GitHub Stats"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivando-al-rasyid&layout=compact&theme=radical" alt="Top Languages"></td>
-  </tr>
-</table>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rivando-al-rasyid&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rivando-al-rasyid&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rivando-al-rasyid&theme=dark)
+![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=rivando-al-rasyid&theme=github)
 
 ## 🤝 Connect With Me
 
