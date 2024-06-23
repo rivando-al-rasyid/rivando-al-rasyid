@@ -24,17 +24,16 @@
 
 <div align="center">
   <a href="mailto:rivanrasy@gmail.com" style="margin-right: 10px;">
-    <img alt="Gmail" height="40px" src="https://simpleicons.org/icons/gmail.svg" />
+    <img alt="Gmail" height="40px" src="https://simpleicons.org/icons/gmail.svg?color=white" />
   </a>
   <a href="https://www.linkedin.com/in/rivando-al-rasyid-60270015b/" style="margin-right: 10px;">
-    <img alt="Linkedin" height="38px" src="https://simpleicons.org/icons/linkedin.svg" />
+    <img alt="Linkedin" height="38px" src="https://simpleicons.org/icons/linkedin.svg?color=white" />
   </a>
   <a href="https://www.instagram.com/rivandoall1/" style="margin-right: 10px;">
-    <img alt="Instagram" height="38px" src="https://simpleicons.org/icons/instagram.svg" />
+    <img alt="Instagram" height="38px" src="https://simpleicons.org/icons/instagram.svg?color=white" />
   </a>
   <a href="https://profile-summary-for-github.herokuapp.com/user/rivando-al-rasyid" >
-    <img alt="GitHub Summary" height="40px" src="https://simpleicons.org/icons/github.svg" />
+    <img alt="GitHub Summary" height="40px" src="https://simpleicons.org/icons/github.svg?color=white" />
   </a>
-<div align="center">
-  😍 Thanks for visiting my profile! Have a great day! 😊<br/>
 </div>
+Thank you for visiting my profile! Have a wonderful day! 😊
