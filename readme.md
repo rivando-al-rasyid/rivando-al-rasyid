@@ -1,4 +1,4 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/rivando-al-rasyid?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/rivando-al-rasyid?style=social"> &nbsp;&nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=rivando-al-rasyid&color=blue&style=flat-square)
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/rivando-al-rasyid?style=social"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/rivando-al-rasyid?style=social"> ![Profile Views](https://komarev.com/ghpvc/?username=rivando-al-rasyid&color=blue&style=flat-square)
 
 ## 🙋 About Me
 
@@ -18,22 +18,24 @@
 
 ## 📊 About Some Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rivando-al-rasyid&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rivando-al-rasyid&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rivando-al-rasyid&theme=dark)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rivando-al-rasyid&theme=onedark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rivando-al-rasyid&show_icons=true&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivando-al-rasyid&layout=compact&theme=radical" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rivando-al-rasyid&theme=dark" height="180em" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rivando-al-rasyid&theme=onedark" height="180em" />
+</p>
 ## 🤝 Connect With Me
 
 <p align="center">
   <a href="mailto:rivanrasy@gmail.com">
     <img alt="Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a> &nbsp;&nbsp;
+  </a>
   <a href="https://www.linkedin.com/in/rivando-al-rasyid-60270015b/" target="_blank">
     <img alt="Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
+  </a>
   <a href="https://www.instagram.com/rivandoall1/" target="_blank">
     <img alt="Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
+  </a>
   <a href="https://profile-summary-for-github.herokuapp.com/user/rivando-al-rasyid" target="_blank">
     <img alt="GitHub Summary" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a>
