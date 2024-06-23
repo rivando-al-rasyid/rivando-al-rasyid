@@ -17,10 +17,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 About Some Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rivando-al-rasyid&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivando-al-rasyid&layout=compact&theme=radical)
-
-
+<table><tr>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rivando-al-rasyid&show_icons=true&theme=radical)</tr><tr>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivando-al-rasyid&layout=compact&theme=radical)</tr></table>
 ## 🤝 Connect With Me
 
 <p align="center">
