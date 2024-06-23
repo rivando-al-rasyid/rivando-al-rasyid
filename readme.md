@@ -22,7 +22,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rivando-al-rasyid&show_icons=true&theme=radical" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivando-al-rasyid&layout=compact&theme=radical" height="180em" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rivando-al-rasyid&theme=dark" height="180em" />
-  <img src="https://github-profile-trophy.vercel.app/?username=rivando-al-rasyid&theme=onedark" height="180em" />
 </p>
 ## 🤝 Connect With Me
 
