@@ -26,13 +26,13 @@
   <a href="mailto:rivanrasy@gmail.com" style="margin-right: 10px;">
     <img alt="Gmail" height="40px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
-  <a href="https://www.linkedin.com/in/rivando-al-rasyid-60270015b/" target="_blank" style="margin-right: 10px;">
+  <a href="https://www.linkedin.com/in/rivando-al-rasyid-60270015b/" style="margin-right: 10px;">
     <img alt="Linkedin" height="38px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a>
-  <a href="https://www.instagram.com/rivandoall1/" target="_blank" style="margin-right: 10px;">
+  <a href="https://www.instagram.com/rivandoall1/" style="margin-right: 10px;">
     <img alt="Instagram" height="38px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a>
-  <a href="https://profile-summary-for-github.herokuapp.com/user/rivando-al-rasyid" target="_blank">
+  <a href="https://profile-summary-for-github.herokuapp.com/user/rivando-al-rasyid" >
     <img alt="GitHub Summary" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a>
 </div>
