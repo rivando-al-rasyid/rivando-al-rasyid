@@ -20,20 +20,22 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivando-al-rasyid&layout=compact&theme=radical" height="180em" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rivando-al-rasyid&theme=dark" height="180em" />
 </p>
+
 ## 🤝 Connect With Me
 
-<div align="center">
-  <a href="mailto:rivanrasy@gmail.com" style="margin-right: 10px;">
-    <img alt="Gmail" height="40px" src="https://simpleicons.org/icons/gmail.svg?color=white" />
+<p align="center">
+  <a href="mailto:rivanrasy@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/rivando-al-rasyid-60270015b/" style="margin-right: 10px;">
-    <img alt="Linkedin" height="38px" src="https://simpleicons.org/icons/linkedin.svg?color=white" />
+  <a href="https://www.linkedin.com/in/rivando-al-rasyid-60270015b/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/rivandoall1/" style="margin-right: 10px;">
-    <img alt="Instagram" height="38px" src="https://simpleicons.org/icons/instagram.svg?color=white" />
+  <a href="https://www.instagram.com/rivandoall1/">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://profile-summary-for-github.herokuapp.com/user/rivando-al-rasyid" >
-    <img alt="GitHub Summary" height="40px" src="https://simpleicons.org/icons/github.svg?color=white" />
+  <a href="https://profile-summary-for-github.herokuapp.com/user/rivando-al-rasyid">
+    <img alt="GitHub Summary" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</div>
-Thank you for visiting my profile! Have a wonderful day! 😊
+</p>
+
+## Thank you for visiting my profile! Have a wonderful day! 😊
