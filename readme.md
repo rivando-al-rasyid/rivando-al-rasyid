@@ -21,8 +21,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rivando-al-rasyid&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rivando-al-rasyid&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rivando-al-rasyid&theme=dark)
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=rivando-al-rasyid&theme=github)
-
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rivando-al-rasyid&theme=onedark)
 ## 🤝 Connect With Me
 
 <p align="center">
