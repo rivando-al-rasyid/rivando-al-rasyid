@@ -4,7 +4,7 @@
 - 🎓 Full Name: **Rivando Al Rasyid**
 - 🏫 Education: Student at **Metamedia University**
 - 🎓 Majoring in **Information System**
-- 🌍 Location: **Padang, Indonesia**
+ 🌍 Location: **Padang, Indonesia**
 - 😅 Coding Experience: Newbie coder with a current focus on Web Development.
 - 🤓 Interests: Coding, sleeping, watching anime & films
 - 😎 Favorite Quote: **_"Just DO it"_**
@@ -30,13 +30,14 @@
 </p>
 
 ## 🌟 Kontribusi GitHub
+[![Github Activity](https://github-readme-activity-graph.vercel.app/graph?
+username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![GitHub Activity Graph]( https://github-readme-activity-graph.cyclic.app/graph?username=aiden-boek&theme=dracula)
 
 ## 📊 About Some Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aiden-boek&show_icons=true&theme=radical" height="180em" />
+ <img src="https://github-readme-stats.vercel.app/api?username=aiden-boek&show_icons=true&theme=radical" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiden-boek&layout=compact&theme=radical" height="180em" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aiden-boek&theme=radical" height="180em" />
 </p>
