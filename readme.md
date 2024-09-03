@@ -26,7 +26,7 @@
   <a href="mailto:rivanrasy@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/aiden-boek-60270015b/">
+  <a href="https://www.linkedin.com/in//rivando-al-rasyid-60270015b//">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/rivandoall1/">
