@@ -39,22 +39,21 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aiden-boek&show_icons=true&theme=radical" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiden-boek&layout=compact&theme=radical" height="180em" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aiden-boek&theme=dark" height="180em" />
-  <img src="">
 </p>
 
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:rivanrasy@gmail.com">
+  <a href="mailto:rivanrasy@gmail.com" target="_blank" rel="noopener noreferrer">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in//rivando-al-rasyid-60270015b//">
+  <a href="https://www.linkedin.com/in//rivando-al-rasyid-60270015b/" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/rivandoall1/">
+  <a href="https://www.instagram.com/rivandoall1/" target="_blank" rel="noopener noreferrer">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://profile-summary-for-github.herokuapp.com/user/aiden-boek">
+  <a href="https://profile-summary-for-github.herokuapp.com/user/aiden-boek" target="_blank" rel="noopener noreferrer">
     <img alt="GitHub Summary" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
