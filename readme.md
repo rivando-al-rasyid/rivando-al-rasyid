@@ -31,14 +31,14 @@
 
 ## 🌟 Kontribusi GitHub
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aiden-boek&theme=dracula)
+![GitHub Activity Graph]( https://github-readme-activity-graph.cyclic.app/graph?username=aiden-boek&theme=dracula)
 
 ## 📊 About Some Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aiden-boek&show_icons=true&theme=radical" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiden-boek&layout=compact&theme=radical" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aiden-boek&theme=dark" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aiden-boek&theme=radical" height="180em" />
 </p>
 
 ## 🤝 Connect With Me
