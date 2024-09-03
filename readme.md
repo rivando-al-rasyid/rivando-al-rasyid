@@ -29,16 +29,12 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-## 🌟 Kontribusi GitHub
-[![Github Activity](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-## 📊 About Some Stats
-
+## 🌟 Kontribusi dan Statistik GitHub
+[![Github Activity](https://github-readme-activity-graph.vercel.app/graph?username=aiden-boek)](https://github.com/aiden-boek/github-readme-activity-graph)
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=aiden-boek&show_icons=true&theme=radical" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiden-boek&layout=compact&theme=radical" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aiden-boek&theme=radical" height="180em" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiden-boek&layout=compact&theme=radical" height="180em" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=aiden-boek&theme=radical" height="180em" />
 </p>
 
 ## 🤝 Connect With Me
