@@ -2,22 +2,44 @@
 
 ## 🔄 About Me
 - 🎓 Full Name: **Rivando Al Rasyid**
-- 🏫 Education: Student at **Stmik Indonesia Padang**, Majoring in **Information System**
+- 🏫 Education: Student at **Metamedia University**
+- 🎓 Majoring in **Information System**
 - 🌍 Location: **Padang, Indonesia**
 - 😅 Coding Experience: Newbie coder with a current focus on Web Development.
 - 🤓 Interests: Coding, sleeping, watching anime & films
 - 😎 Favorite Quote: **_"Just DO it"_**
 
-## 💻 Languages and Tools
+## 🚀 Proyek Unggulan
+- [Nama Proyek 1](link_ke_repo) - Deskripsi singkat proyek
+- [Nama Proyek 2](link_ke_repo) - Deskripsi singkat proyek
+- [Nama Proyek 3](link_ke_repo) - Deskripsi singkat proyek
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-<img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=code&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+## 💻 Bahasa dan Alat
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+## 🌟 Kontribusi GitHub
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aiden-boek&theme=dracula)
+
 ## 📊 About Some Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aiden-boek&show_icons=true&theme=radical" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiden-boek&layout=compact&theme=radical" height="180em" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aiden-boek&theme=dark" height="180em" />
+  <img src="">
 </p>
 
 ## 🤝 Connect With Me
