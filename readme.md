@@ -1,4 +1,4 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/aiden-boek?style=social"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/aiden-boek?style=social"> ![Profile Views](https://komarev.com/ghpvc/?username=aiden-boek&color=blue&style=flat-square)
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/rivando-al-rasyid?style=social"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/rivando-al-rasyid?style=social"> ![Profile Views](https://komarev.com/ghpvc/?username=rivando-al-rasyid&color=blue&style=flat-square)
 
 ## 🔄 About Me
 - 🎓 Full Name: **Rivando Al Rasyid**
@@ -30,11 +30,11 @@
 </p>
 
 ## 🌟 Kontribusi dan Statistik GitHub
-[![Github Activity](https://github-readme-activity-graph.vercel.app/graph?username=aiden-boek)](https://github.com/aiden-boek/github-readme-activity-graph)
+[![Github Activity](https://github-readme-activity-graph.vercel.app/graph?username=rivando-al-rasyid)](https://github.com/rivando-al-rasyid/github-readme-activity-graph)
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=aiden-boek&show_icons=true&theme=radical" height="180em" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiden-boek&layout=compact&theme=radical" height="180em" />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=aiden-boek&theme=radical" height="180em" />
+ <img src="https://github-readme-stats.vercel.app/api?username=rivando-al-rasyid&show_icons=true&theme=radical" height="180em" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivando-al-rasyid&layout=compact&theme=radical" height="180em" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=rivando-al-rasyid&theme=radical" height="180em" />
 </p>
 
 ## 🤝 Connect With Me
@@ -49,7 +49,7 @@
   <a href="https://www.instagram.com/rivandoall1/" target="_blank" rel="noopener noreferrer">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://profile-summary-for-github.herokuapp.com/user/aiden-boek" target="_blank" rel="noopener noreferrer">
+  <a href="https://profile-summary-for-github.herokuapp.com/user/rivando-al-rasyid" target="_blank" rel="noopener noreferrer">
     <img alt="GitHub Summary" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
