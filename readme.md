@@ -11,7 +11,7 @@
 
 ## 🚀 Featured Projects
 
-- [**PPDB Online With Xendit**](https://github.com/rivando-al-rasyid/ppdb-online-xendit) – A brief description of this awesome project.
+- [**PPDB Online With Xendit**](https://github.com/rivando-al-rasyid/ppdb-online-xendit) –  PPDB Online Xendit adalah platform berbasis web yang dirancang untuk mempermudah proses Penerimaan Peserta Didik Baru (PPDB) di institusi pendidikan. Sistem ini memanfaatkan integrasi dengan gateway pembayaran Xendit untuk memfasilitasi pembayaran biaya pendaftaran secara mudah dan aman
 - [**Project 2**](link_to_repo) – A brief description of another amazing project.
 - [**Project 3**](link_to_repo) – A brief description of a standout project.
 
