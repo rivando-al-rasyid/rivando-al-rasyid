@@ -30,7 +30,9 @@
 </p>
 
 ## 🌟 Kontribusi dan Statistik GitHub
-    <img src="https://tryhackme-badges.s3.amazonaws.com/doerian.png" alt="Your Image Badge" />
+    
+    
+<img src="https://tryhackme-badges.s3.amazonaws.com/doerian.png" alt="Your Image Badge" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rivando-al-rasyid&show_icons=true&theme=radical" height="180em" />
