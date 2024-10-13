@@ -11,7 +11,7 @@
 
 ## 🚀 Featured Projects
 
-- [**Project 1**](link_to_repo) – A brief description of this awesome project.
+- [**PPDB Online With Xendit**](https://github.com/rivando-al-rasyid/ppdb-online-xendit) – A brief description of this awesome project.
 - [**Project 2**](link_to_repo) – A brief description of another amazing project.
 - [**Project 3**](link_to_repo) – A brief description of a standout project.
 
