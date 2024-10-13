@@ -14,7 +14,7 @@
 - [Nama Proyek 2](link_ke_repo) - Deskripsi singkat proyek
 - [Nama Proyek 3](link_ke_repo) - Deskripsi singkat proyek
 
-## 💻 Bahasa dan Alat
+## 💻 Skill
 
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/doerian.png" alt="Your Image Badge" />
