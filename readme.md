@@ -14,11 +14,13 @@
 - [**Project 2**](link_ke_repo) – A brief description of another amazing project.
 - [**Project 3**](link_ke_repo) – A brief description of a standout project.
 
-## 💻 Skills
+## 💻 Stat
 
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/doerian.png" alt="Your Badge" />
 </p>
+
+## 💻 Bahasa dan tools
 <p align="center">
 
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
