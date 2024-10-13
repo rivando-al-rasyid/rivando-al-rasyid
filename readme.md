@@ -27,12 +27,13 @@
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/doerian.png" alt="Your Image Badge" />
+
 </p>
 
 ## 🌟 Kontribusi dan Statistik GitHub
     
     
-<img src="https://tryhackme-badges.s3.amazonaws.com/doerian.png" alt="Your Image Badge" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rivando-al-rasyid&show_icons=true&theme=radical" height="180em" />
