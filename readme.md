@@ -32,10 +32,11 @@
 ## 🌟 Kontribusi dan Statistik GitHub
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/doerian.png" alt="Your Image Badge" />
   <img src="https://github-readme-stats.vercel.app/api?username=rivando-al-rasyid&show_icons=true&theme=radical" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivando-al-rasyid&layout=compact&theme=radical" height="180em" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rivando-al-rasyid&theme=radical" height="180em" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/doerian.png" alt="Your Image Badge" />
+
 </p>
 
 ## 🤝 Connect With Me
