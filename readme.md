@@ -1,3 +1,4 @@
+
 ## 🔄 About Me
 
 - 🎓 **Full Name**: Rivando Al Rasyid  
@@ -10,19 +11,19 @@
 
 ## 🚀 Featured Projects
 
-- [**Project 1**](link_ke_repo) – A brief description of this awesome project.
-- [**Project 2**](link_ke_repo) – A brief description of another amazing project.
-- [**Project 3**](link_ke_repo) – A brief description of a standout project.
+- [**Project 1**](link_to_repo) – A brief description of this awesome project.
+- [**Project 2**](link_to_repo) – A brief description of another amazing project.
+- [**Project 3**](link_to_repo) – A brief description of a standout project.
 
-## 💻 Stat
+## 💻 Certification
 
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/doerian.png" alt="Your Badge" />
 </p>
 
-## 💻 Bahasa dan tools
-<p align="center">
+## 💻 Languages & Tools
 
+<p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
