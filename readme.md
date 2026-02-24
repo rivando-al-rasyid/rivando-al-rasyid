@@ -39,10 +39,7 @@
 ## 🌟 GitHub Stats & Contributions
 
 <p align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-  <img src="https://github-readme-stats.vercel.app/api?username=rivando-al-rasyid&show_icons=true&theme=radical" height="180em" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivando-al-rasyid&layout=compact&theme=radical" height="180em" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rivando-al-rasyid&theme=radical" height="180em" alt="GitHub Streak" />
+
 </p>
 
 ## 🤝 Connect With Me
