@@ -39,7 +39,7 @@
 ## 🌟 GitHub Stats & Contributions
 
 <p align="center">
-https://camo.githubusercontent.com/efec96d94ed1695c47c09276a07c86cb9fd84c9ed12473484d2f13446d3e57cd/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d726976616e646f2d616c2d726173796964267468656d653d7261646963616c
+  <img src="https://github-readme-stats.vercel.app/api?username=rivando-al-rasyid&show_icons=true&theme=radical" height="180em" alt="GitHub Stats" />
 </p>
 
 ## 🤝 Connect With Me
