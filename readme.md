@@ -1,64 +1,42 @@
-
-## 🔄 About Me
-
-- 🎓 **Full Name**: Rivando Al Rasyid  
-- 🏫 **Education**: Student at **Metamedia University**  
-- 🎓 **Major**: Information Systems  
-- 🌍 **Location**: Padang, Indonesia  
-- 💻 **Experience**: Newbie coder focusing on Web Development  
-- 💭 **Interests**: Coding, sleeping, anime & films  
-- 🏅 **Favorite Quote**: _"Just DO it"_
-
-## 🚀 Featured Projects
-
-- [**PPDB Online With Xendit**](https://github.com/rivando-al-rasyid/ppdb-online-xendit) –  PPDB Online Xendit adalah platform berbasis web yang dirancang untuk mempermudah proses Penerimaan Peserta Didik Baru (PPDB) di institusi pendidikan. Sistem ini memanfaatkan integrasi dengan gateway pembayaran Xendit untuk memfasilitasi pembayaran biaya pendaftaran secara mudah dan aman
-- [**Project 2**](link_to_repo) – A brief description of another amazing project.
-- [**Project 3**](link_to_repo) – A brief description of a standout project.
-
-## 💻 Certification
+# Halo, Saya [rivando al rasyid]! 👋
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/doerian.png" alt="Your Badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Fullstack+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
-## 💻 Languages & Tools
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+### 💫 Tentang Saya
+- 🔭 Saya sedang mengerjakan **[Nama Proyek]**
+- 🌱 Saat ini saya sedang mendalami **React Native & Go**
+- 💬 Tanya saya tentang **Web Development atau Kopi**
+- 📫 Cara menghubungi saya: **[/www.linkedin.com/in/rivando-al-rasyid]**
+
+---
+
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,mongodb,figma,git" />
 </p>
 
-## 🌟 GitHub Stats & Contributions
+---
 
+### 📊 Statistik GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rivando-al-rasyid&show_icons=true&theme=radical" height="180em" alt="GitHub Stats" />
-</p>
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="mailto:rivanrasy@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/rivando-al-rasyid-60270015b/" target="_blank" rel="noopener noreferrer">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/rivandoall1/" target="_blank" rel="noopener noreferrer">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://profile-summary-for-github.herokuapp.com/user/rivando-al-rasyid" target="_blank" rel="noopener noreferrer">
-    <img alt="GitHub Summary" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rivando-al-rasyid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivando-al-rasyid&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <strong>Thank you for visiting my profile! I hope you found it interesting and informative. Have a fantastic day! 😊</strong>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rivando-al-rasyid&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
+---
+
+### 🐍 Kontribusi Saya
+![Github Snake](https://github.com/rivando-al-rasyid/rivando-al-rasyid/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🎵 Sedang Mendengarkan...
+[![Spotify](https://novatorem-spotify-readme.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&bar_color=1db954&bar_color_active=1ed760)](https://open.spotify.com/user/[ID_SPOTIFY_KAMU])
