@@ -60,10 +60,10 @@ Next Goals
 ## 📊 GitHub Stats
 
 <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rivando-al-rasyid&theme=tokyonight" alt="GitHub stats" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rivando-al-rasyid&theme=transparent" alt="GitHub stats" />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rivando-al-rasyid&theme=tokyonight" alt="Most Used Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rivando-al-rasyid&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rivando-al-rasyid&theme=transparent" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rivando-al-rasyid&theme=transparent" alt="Stats" />
 
 </p>
 
