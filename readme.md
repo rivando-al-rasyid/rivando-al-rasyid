@@ -60,10 +60,13 @@ Next Goals
 ## 📊 GitHub Stats
 
 
+<div align="center">
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rivando-al-rasyid&theme=transparent)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rivando-al-rasyid&theme=transparent) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rivando-al-rasyid&theme=transparent)
 
+</div>
 
 ---
 
