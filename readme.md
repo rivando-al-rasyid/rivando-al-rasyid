@@ -31,6 +31,7 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
@@ -72,6 +73,12 @@ Next Goals
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rivando-al-rasyid&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+![GitHub Snake](https://github.com/rivando-al-rasyid/rivando-al-rasyid/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
