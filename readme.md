@@ -67,8 +67,11 @@ Next Goals
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rivando-al-rasyid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="180em" src="  http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rivando-al-rasyid&theme={transparent}" alt="Top Languages" />
+
+http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={username}&theme={theme_name}&exclude={exclude}
+
+http://github-profile-summary-cards.vercel.app/api/cards/stats?username={username}&theme={theme_name}
+
 
 
 </p>
