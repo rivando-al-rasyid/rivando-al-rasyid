@@ -1,4 +1,4 @@
-# Hi, I'm Rivando Al Rasyid! 👋   ![](https://komarev.com/ghpvc/?username=your-github-username)
+# Hi, I'm Rivando Al Rasyid! 👋   ![](https://komarev.com/ghpvc/?username=rivando-al-rasyid)
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=500&lines=Web+Developer;PHP+%26+Laravel+Enthusiast;Learning+JavaScript+%26+Go;Building+One+Project+at+a+Time" alt="Typing SVG" />
 </p>
