@@ -10,7 +10,6 @@
 - 🌱 Currently focused on **JavaScript** (Vue.js) and exploring **Go** for backend
 - 🧩 I believe in learning by building — not just following tutorials
 - 💬 Ask me about **Laravel, PHP, or why coffee makes better code** ☕
-- 📫 Let's connect: [linkedin.com/in/rivando-al-rasyid](https://www.linkedin.com/in/rivando-al-rasyid)
 
 ---
 
