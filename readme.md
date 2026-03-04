@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=500&lines=Web+Developer;PHP+%26+Laravel+Enthusiast;Learning+JavaScript+%26+Go;Building+One+Project+at+a+Time" alt="Typing SVG" />
 </p>
-
+![alt text]([image.jpg](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=500&lines=Web+Developer;PHP+%26+Laravel+Enthusiast;Learning+JavaScript+%26+Go))
 ---
 
 ## 💫 About Me
@@ -89,9 +89,6 @@ Next Goals
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rivando-al-rasyid&label=Profile+Views&color=45A1FF&style=flat" alt="Profile Views" />
-</p>
 
 <p align="center">
   <i>"Every expert was once a beginner. Keep building, keep learning."</i> 🚀
