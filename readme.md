@@ -38,49 +38,77 @@
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-```text
-2024 - Now
-├── ✅ PHP & Laravel
-│   └── Built real project, deepening expertise
-│
-├── 🔄 JavaScript & Frontend         [Bootcamp Koda]
-│   ├── ✅ JS Fundamentals (Intro 1–3)
-│   ├── ✅ Node JS, Git & GitHub
-│   ├── ✅ HTML Structure, CSS Styling & Responsive Layout
-│   ├── 🔄 DOM Introduction & Practical
-│   ├── ⏳ JS Library
-│   ├── ⏳ Basic React Component & Routing
-│   ├── ⏳ TailwindCSS, Form Handling & JSDocs
-│   ├── ⏳ Advanced Routing
-│   ├── ⏳ Basic & Advanced State Management (Redux)
-│   └── ⏳ Auth, Upload & Documentation
-│
-├── ⏳ Go (Golang)
-│   ├── ⏳ Go Introduction
-│   ├── ⏳ Intermediate Go
-│   └── ⏳ Concurrency in Go
-│
-├── ⏳ Backend & DevOps
-│   ├── ⏳ Basic & Intermediate Backend
-│   ├── ⏳ SSH & Web Server
-│   ├── ⏳ Docker Introduction & Docker Compose
-│   └── ⏳ Basic Linux
-│
-├── ⏳ Database
-│   ├── ⏳ PostgreSQL Basic & Intermediate
-│   ├── ⏳ Normalization & Advanced Query
-│   ├── ⏳ Redis Cache & Database Migration
-│   └── ⏳ Advanced Query Part 2 & Transaction
-│
-└── ⏳ Collaboration & Open Source
-    ├── ⏳ Collab Introduction
-    └── ⏳ BE & FE Review + Implementation
+# 🗺️ Learning Roadmap
 
-Next Goals
-├── 🎯 Ship a full project using React
-├── 🎯 Deploy a Go REST API publicly
-└── 🎯 Contribute to open source
-```
+**2024 - Now**
+
+<details>
+<summary>✅ PHP & Laravel</summary>
+
+- ✅ Built real project, deepening expertise
+
+</details>
+
+<details>
+<summary>🔄 JavaScript & Frontend</summary>
+
+- ✅ JS Fundamentals (Intro 1–3)
+- ✅ Node JS, Git & GitHub
+- ✅ HTML Structure, CSS Styling & Responsive Layout
+- 🔄 DOM Introduction & Practical
+- ⏳ JS Library
+- ⏳ Basic React Component & Routing
+- ⏳ TailwindCSS, Form Handling & JSDocs
+- ⏳ Advanced Routing
+- ⏳ Basic & Advanced State Management (Redux)
+- ⏳ Auth, Upload & Documentation
+
+</details>
+
+<details>
+<summary>⏳ Go (Golang)</summary>
+
+- ⏳ Go Introduction
+- ⏳ Intermediate Go
+- ⏳ Concurrency in Go
+
+</details>
+
+<details>
+<summary>⏳ Backend & DevOps</summary>
+
+- ⏳ Basic & Intermediate Backend
+- ⏳ SSH & Web Server
+- ⏳ Docker Introduction & Docker Compose
+- ⏳ Basic Linux
+
+</details>
+
+<details>
+<summary>⏳ Database</summary>
+
+- ⏳ PostgreSQL Basic & Intermediate
+- ⏳ Normalization & Advanced Query
+- ⏳ Redis Cache & Database Migration
+- ⏳ Advanced Query Part 2 & Transaction
+
+</details>
+
+<details>
+<summary>⏳ Collaboration & Open Source</summary>
+
+- ⏳ Collab Introduction
+- ⏳ BE & FE Review + Implementation
+
+</details>
+
+---
+
+## 🎯 Next Goals
+
+- 🎯 Ship a full project using React
+- 🎯 Deploy a Go REST API publicly
+- 🎯 Contribute to open source
 
 ---
 
@@ -111,6 +139,6 @@ Next Goals
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rivando-al-rasyid)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rivando-al-rasyid)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rivando@email.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rivandoalrasyid7@email.com)
 
 *"Ship it, learn from it, improve it."* 🚀
