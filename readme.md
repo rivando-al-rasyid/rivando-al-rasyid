@@ -116,7 +116,7 @@
 
 | Project |  Stack | Status |
 | --- | --- | --- | --- |
-|[vanwallet](https://github.com/rivando-al-rasyid/vanwallet) | React, Go, PostgreSQL, RabbitMQ, Docker, Nginx | 🔄 progress |
+|[vanwallet](https://github.com/rivando-al-rasyid/vanwallet) | React, Go, PostgreSQL, Docker, Nginx | 🔄 progress |
 |[vanwallet](https://github.com/rivando-al-rasyid/vanwallet) | React, Go, PostgreSQL, RabbitMQ, Docker, Nginx | ⏳ Planned |
 
 > 🏗️ All projects follow **full microservices architecture** — separate services per domain, API Gateway (Nginx), async messaging via RabbitMQ, containerized with Docker Compose, and role-based access control.
