@@ -18,7 +18,6 @@
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -115,15 +114,10 @@
 
 ## 🚀 Projects
 
-| Project | Architecture | Stack | Status |
+| Project |  Stack | Status |
 | --- | --- | --- | --- |
-| [vanwallet](https://github.com/rivando-al-rasyid/vanwallet) | monolith | React, Go, PostgreSQL, Docker, Nginx | 🔄 progress |
-| User Management | Microservices | React, Go, PostgreSQL, RabbitMQ, Docker, Nginx | ⏳ Planned |
-| Internal Ticket / Help Desk App | Microservices | React, Go, PostgreSQL, RabbitMQ, Docker, Nginx | ⏳ Planned |
-| Point of Sale | Microservices | React, Go, PostgreSQL, RabbitMQ, Docker, Nginx | ⏳ Planned |
-| Payment Gateway | Microservices | React, Go, PostgreSQL, RabbitMQ, Docker, Nginx | ⏳ Planned |
-| External Ticket | Microservices | React, Go, PostgreSQL, RabbitMQ, Docker, Nginx | ⏳ Planned |
-| Recruitment | Microservices | React, Go, PostgreSQL, RabbitMQ, Docker, Nginx | ⏳ Planned |
+|[vanwallet](https://github.com/rivando-al-rasyid/vanwallet) | React, Go, PostgreSQL, RabbitMQ, Docker, Nginx | 🔄 progress |
+|[vanwallet](https://github.com/rivando-al-rasyid/vanwallet) | React, Go, PostgreSQL, RabbitMQ, Docker, Nginx | ⏳ Planned |
 
 > 🏗️ All projects follow **full microservices architecture** — separate services per domain, API Gateway (Nginx), async messaging via RabbitMQ, containerized with Docker Compose, and role-based access control.
 
