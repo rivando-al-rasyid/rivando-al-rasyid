@@ -1,6 +1,8 @@
+<div align="center">
 # Hi, I'm Rivando Al Rasyid! 👋
 
 ![Title Job](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=500&lines=Web+Developer;PHP+%26+Laravel+Enthusiast;Learning+JavaScript+%26+React+%26+Go)
+</div>
 
 ---
 
@@ -137,4 +139,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rivando-al-rasyid)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rivandoalrasyid7@email.com)
 
-*"Ship it, learn from it, improve it."* 🚀
