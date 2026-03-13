@@ -116,6 +116,7 @@
 
 | Project | Architecture | Stack | Status |
 | --- | --- | --- | --- |
+| [vanwallet](https://github.com/rivando-al-rasyid/vanwallet) | monolith | React, Go, PostgreSQL, Docker, Nginx | 🔄 progress |
 | User Management | Microservices | React, Go, PostgreSQL, RabbitMQ, Docker, Nginx | ⏳ Planned |
 | Internal Ticket / Help Desk App | Microservices | React, Go, PostgreSQL, RabbitMQ, Docker, Nginx | ⏳ Planned |
 | Point of Sale | Microservices | React, Go, PostgreSQL, RabbitMQ, Docker, Nginx | ⏳ Planned |
