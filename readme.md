@@ -58,7 +58,7 @@
 - ✅ JS Fundamentals (Intro 1–3)
 - ✅ Node JS, Git & GitHub
 - ✅ HTML Structure, CSS Styling & Responsive Layout
-- 🔄 DOM Introduction & Practical
+- ✅ DOM Introduction & Practical
 - ⏳ JS Library
 - ⏳ Basic React Component & Routing
 - ⏳ TailwindCSS, Form Handling & JSDocs
