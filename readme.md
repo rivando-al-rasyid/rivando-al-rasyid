@@ -40,7 +40,7 @@
 - ✅ DOM Introduction & Practical
 - ✅ JS Library
 - ✅ Basic React Component & Routing
-- 🔄 TailwindCSS, Form Handling & JSDocs
+- ✅ TailwindCSS, Form Handling & JSDocs
 - ⏳ Advanced Routing
 - ⏳ Basic & Advanced State Management (Redux)
 - ⏳ Auth, Upload & Documentation
