@@ -32,7 +32,7 @@
 
 - ✅ Built real project, deepening expertise
 
-### 🔄 JavaScript & Frontend
+### ✅ JavaScript & Frontend
 
 - ✅ JS Fundamentals (Intro 1–3)
 - ✅ Node JS, Git & GitHub
@@ -41,13 +41,13 @@
 - ✅ JS Library
 - ✅ Basic React Component & Routing
 - ✅ TailwindCSS, Form Handling & JSDocs
-- ⏳ Advanced Routing
-- ⏳ Basic & Advanced State Management (Redux)
-- ⏳ Auth, Upload & Documentation
+- ✅ Advanced Routing
+- ✅ Basic & Advanced State Management (Redux)
+- ✅ Auth, Upload & Documentation
 
-### ⏳ Go (Golang)
+### 🔄 Go (Golang)
 
-- ⏳ Go Introduction
+- 🔄 Go Introduction
 - ⏳ Intermediate Go
 - ⏳ Concurrency in Go
 
