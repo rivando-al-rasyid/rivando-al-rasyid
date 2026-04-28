@@ -1,7 +1,7 @@
 # Rivando Al Rasyid
 **Software Engineer | Backend & Web Development Focus**
 
-I build web applications with PHP and Laravel, and I’m currently expanding into React, Go, and modern deployment workflows. I prefer learning by building real projects and improving them step by step.
+I build web applications with PHP and Laravel, and I'm expanding into React, Go, and modern deployment workflows. I learn by building real projects step by step.
 
 ## 💻 Tech Stack
 
@@ -18,24 +18,26 @@ I build web applications with PHP and Laravel, and I’m currently expanding int
   *Tech: PHP, Laravel, MySQL*  
   Contributed through collaborative Git workflows, including backend features, database setup, and authentication.
 
-- **[vanwallet-react](https://github.com/rivando-al-rasyid/vanwallet-react)**  
-  Modern digital wallet interface built with React and Vite.  
-  *Tech: React, Vite, Tailwind CSS, React Router, React Hook Form, Joi, Chart.js*  
-  Built responsive wallet pages, authentication flows, dashboard UI, transaction features, and analytics components with a modern frontend stack.
-
 - **[vanmovie](https://github.com/rivando-al-rasyid/vanmovie)**  
   Cinematic movie browser web app powered by the TMDB API.  
   *Tech: HTML5, CSS3, JavaScript (ES Modules), Tailwind CSS, TMDB API*  
-  Built responsive movie browsing, film detail pages, genre filtering, sorting, pagination, watchlist features, and mock authentication with localStorage.
+  Responsive movie browsing, film details, genre filtering, sorting, pagination, watchlist, mock auth.
 
 - **[html-portfolio](https://github.com/rivando-al-rasyid/html-portfolio)**  
   Personal portfolio website built to strengthen frontend fundamentals.  
   *Tech: HTML5, CSS3*  
-  Focused on semantic markup, layout structure, and responsive styling.
+  Semantic markup, layout structure, and responsive styling practice.
+
+## 🏗️ Currently Building
+
+- **[vanwallet-react](https://github.com/rivando-al-rasyid/vanwallet-react)**  
+  Modern digital wallet interface built with React and Vite.  
+  *Tech: React, Vite, Tailwind CSS, React Router, React Hook Form, Joi, Chart.js*  
+  Responsive wallet pages, authentication flows, dashboard UI, transaction features, and analytics.
 
 ## 🏗️ Current Focus
 
-I’m currently improving my frontend and backend skills through projects using React, Go, PostgreSQL, Docker, and Nginx, while strengthening my foundation in application architecture and deployment workflows.
+Improving frontend/backend skills through React, Go, PostgreSQL, Docker, and Nginx projects while strengthening application architecture and deployment workflows.
 
 ## 📫 Connect
 
