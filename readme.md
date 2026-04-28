@@ -23,6 +23,11 @@ I build web applications with PHP and Laravel. Currently learning Go for APIs, R
   *Tech: HTML5, CSS3*  
   Built semantic markup and responsive design.
 
+- **[vanmovie](https://github.com/rivando-al-rasyid/vanmovie)**  
+  Movie-related web project built as part of my learning journey.  
+  *Tech: Check repository for latest stack*  
+  Built to practice application structure, UI flow, and project development workflow.
+
 ## 🏗️ Currently Building
 
 **vanwallet** (WIP - private sandbox)  
