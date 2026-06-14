@@ -35,12 +35,23 @@ I build web applications with PHP and Laravel, and I'm expanding into React, Go,
   *Tech: React, Vite, Tailwind CSS, React Router, React Hook Form, Joi, Chart.js*  
   Responsive wallet pages, authentication flows, dashboard UI, transaction features, and analytics.
 
+## 📊 GitHub Stats
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rivando-al-rasyid&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Rivando's GitHub Stats" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivando-al-rasyid&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rivando-al-rasyid/rivando-al-rasyid/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rivando-al-rasyid/rivando-al-rasyid/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Riddle Snake Animation" src="https://raw.githubusercontent.com/rivando-al-rasyid/rivando-al-rasyid/output/github-contribution-grid-snake.svg">
 </picture>
-
+---
 ## 🏗️ Current Focus
 
 Improving frontend/backend skills through React, Go, PostgreSQL, Docker, and Nginx projects while strengthening application architecture and deployment workflows.
