@@ -127,17 +127,6 @@ These repositories show my learning process, while the featured projects above r
 ---
 
 ## 📊 GitHub Stats
-
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rivando-al-rasyid&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Rivando's GitHub Stats" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivando-al-rasyid&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rivando-al-rasyid/rivando-al-rasyid/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rivando-al-rasyid/rivando-al-rasyid/output/github-contribution-grid-snake.svg">
