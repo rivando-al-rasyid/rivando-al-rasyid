@@ -95,19 +95,6 @@ Fork-based full-stack movie ticket booking platform project.
 
 ---
 
-### [PPDB-Online-HB](https://github.com/sizuadi/PPDB-Online-HB)
-
-Web-based student admission system.
-
-**Tech:** PHP, Laravel, MySQL
-
-**Highlights:**
-
-* Contributed to backend features, database setup, and authentication flow
-* Practiced collaborative Git workflows in a real web application project
-* Worked with student registration features and admin-side management flow
-
----
 
 ### [vanmovie](https://github.com/rivando-al-rasyid/vanmovie)
 
@@ -120,20 +107,6 @@ Cinematic movie browser web app powered by the TMDB API.
 * Built responsive movie browsing interface
 * Added movie detail pages, genre filtering, sorting, pagination, watchlist, and mock authentication
 * Practiced API integration and frontend state handling with vanilla JavaScript
-
----
-
-### [html-portfolio](https://github.com/rivando-al-rasyid/html-portfolio)
-
-Personal portfolio website built to strengthen frontend fundamentals.
-
-**Tech:** HTML5, CSS3
-
-**Highlights:**
-
-* Practiced semantic HTML structure
-* Built responsive layouts with CSS
-* Strengthened basic frontend styling and page structure fundamentals
 
 ---
 
