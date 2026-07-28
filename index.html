@@ -1,0 +1,248 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>GitHub Stats Dashboard</title>
+
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background: #0d1117;
+        color: white;
+        margin: 0;
+        padding: 20px;
+      }
+
+      .container {
+        max-width: 1100px;
+        margin: auto;
+      }
+
+      .card {
+        background: #161b22;
+        border: 1px solid #30363d;
+        border-radius: 12px;
+        padding: 20px;
+        margin-bottom: 20px;
+      }
+
+      .profile {
+        display: flex;
+        gap: 20px;
+        align-items: center;
+      }
+
+      .avatar {
+        width: 120px;
+        border-radius: 50%;
+      }
+
+      .stats {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+        gap: 15px;
+      }
+
+      .stat {
+        background: #21262d;
+        padding: 20px;
+        border-radius: 10px;
+        text-align: center;
+      }
+
+      .stat h2 {
+        margin: 0;
+        color: #58a6ff;
+      }
+
+      .repo {
+        padding: 15px;
+        border-bottom: 1px solid #30363d;
+      }
+
+      .repo a {
+        color: #58a6ff;
+        text-decoration: none;
+      }
+
+      .language {
+        background: #238636;
+        display: inline-block;
+        padding: 5px 10px;
+        border-radius: 20px;
+        margin: 5px;
+      }
+
+      img.chart {
+        width: 100%;
+        background: white;
+        border-radius: 10px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="container">
+      <h1>🚀 GitHub Statistics</h1>
+
+      <div id="profile" class="card"></div>
+
+      <div id="stats" class="stats"></div>
+
+      <div class="card">
+        <h2>Contribution Activity</h2>
+        <img class="chart" id="contribution" src="" />
+      </div>
+
+      <div class="card">
+        <h2>Top Languages</h2>
+        <div id="languages"></div>
+      </div>
+
+      <div class="card">
+        <h2>Repositories</h2>
+        <div id="repos"></div>
+      </div>
+    </div>
+
+    <script>
+      const username = "rivando-al-rasyid";
+
+      async function getGithub() {
+        const user = await fetch(
+          `https://api.github.com/users/${username}`,
+        ).then((r) => r.json());
+
+        const repos = await fetch(
+          `https://api.github.com/users/${username}/repos?per_page=100`,
+        ).then((r) => r.json());
+
+        // Profile
+
+        document.getElementById("profile").innerHTML = `
+
+<div class="profile">
+
+<img class="avatar" src="${user.avatar_url}">
+
+<div>
+<h2>${user.name || user.login}</h2>
+
+<p>${user.bio || "No bio available"}</p>
+
+<a href="${user.html_url}" target="_blank">
+View GitHub Profile
+</a>
+
+</div>
+
+</div>
+
+`;
+
+        // Stats
+
+        let stars = 0;
+        let forks = 0;
+        let languages = {};
+
+        repos.forEach((repo) => {
+          stars += repo.stargazers_count;
+          forks += repo.forks_count;
+
+          if (repo.language) {
+            languages[repo.language] = (languages[repo.language] || 0) + 1;
+          }
+        });
+
+        document.getElementById("stats").innerHTML = `
+
+<div class="stat">
+<h2>${user.public_repos}</h2>
+<p>Repositories</p>
+</div>
+
+
+<div class="stat">
+<h2>${stars}</h2>
+<p>Total Stars</p>
+</div>
+
+
+<div class="stat">
+<h2>${forks}</h2>
+<p>Total Forks</p>
+</div>
+
+
+<div class="stat">
+<h2>${user.followers}</h2>
+<p>Followers</p>
+</div>
+
+
+<div class="stat">
+<h2>${user.following}</h2>
+<p>Following</p>
+</div>
+
+`;
+
+        // Languages
+
+        let sortedLanguages = Object.entries(languages).sort(
+          (a, b) => b[1] - a[1],
+        );
+
+        document.getElementById("languages").innerHTML = sortedLanguages
+          .map(
+            (x) => `
+<span class="language">
+${x[0]} (${x[1]})
+</span>
+`,
+          )
+          .join("");
+
+        // Repositories
+
+        document.getElementById("repos").innerHTML = repos
+          .sort((a, b) => b.stargazers_count - a.stargazers_count)
+          .slice(0, 10)
+          .map(
+            (repo) => `
+
+<div class="repo">
+
+<h3>
+<a href="${repo.html_url}" target="_blank">
+${repo.name}
+</a>
+</h3>
+
+<p>${repo.description || "No description"}</p>
+
+⭐ ${repo.stargazers_count}
+
+&nbsp;
+
+🍴 ${repo.forks_count}
+
+</div>
+
+`,
+          )
+          .join("");
+
+        // Contribution graph
+
+        document.getElementById("contribution").src =
+          `https://ghchart.rshah.org/${YOUR_USERNAME}`;
+      }
+
+      getGithub();
+    </script>
+  </body>
+</html>
